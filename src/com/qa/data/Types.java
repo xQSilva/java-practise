@@ -13,7 +13,7 @@ class Types {
 		int mobiles;
 		mobiles = 67;
 		char mobileColour;
-		mobileColour = "Y";
+		mobileColour = 'Y';
 		
 
 	}
